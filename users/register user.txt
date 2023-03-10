@@ -1,0 +1,4 @@
+//add new user
+INSERT INTO `users`(`name`, `email`, `password`, `phone`)
+     VALUES 
+     ('Reza','example@gmail.com','123456A','09139999999')

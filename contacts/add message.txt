@@ -1,0 +1,2 @@
+//add new message 
+INSERT INTO contacts (name, email, title, body) VALUES ("Reza" , "example@gmail.com" , "title" , "بدنه متن پیام")

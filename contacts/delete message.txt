@@ -1,0 +1,2 @@
+//delete a message
+DELETE FROM contacts where id=1

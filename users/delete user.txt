@@ -1,0 +1,2 @@
+//delete user
+DELETE FROM users where id=1
