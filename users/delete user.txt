@@ -1,2 +1,2 @@
 //delete user
-DELETE FROM users where id=1
+UPDATE `users` SET `isDelete`='false' WHERE id=2

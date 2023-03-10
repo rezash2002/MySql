@@ -1,2 +1,2 @@
 //delete a message
-DELETE FROM contacts where id=1
+UPDATE `contacts` SET `isDelete`='false' WHERE id=1
